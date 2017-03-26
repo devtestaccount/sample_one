@@ -1,1 +1,1 @@
-# sample_one
+# Homework Submission Sample One
