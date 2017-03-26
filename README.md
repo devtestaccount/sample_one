@@ -2,6 +2,7 @@
 
 This will show description of the homework project and code samples.
 
+Here's example code I'm proud of:
 ```javascript
 var a = [34, 203, 3, 746, 200, 984, 198, 764, 9];
  
